@@ -1,5 +1,5 @@
 linge1
-ligne2
+je modifie la ligne2
 ligne3
 ligne4
 
